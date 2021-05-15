@@ -1,6 +1,6 @@
 const BLOG = {
   title: 'Comments',
-  author: 'Caelan',
+  author: 'Jiacheng',
   email: 'news.list@outlook.com',
   link: 'https://jiacheng.site',
   description: 'Caelan Comments',
