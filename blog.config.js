@@ -38,9 +38,9 @@ const BLOG = {
     // support provider: gitalk, utterances, cusdis
     provider: '', // leave it empty if you don't need any comment plugin
     gitalkConfig: {
-      repo: 'git@github.com:caelanyang/gittalk-comments.git', // The repository of store comments
+      repo: 'gittalk-comments', // The repository of store comments
       owner: 'caelanyang',
-      admin: ['comments.jiacheng.site'],
+      admin: ['caelanyang'],
       clientID: 'a09aa329597f07a90212',
       clientSecret: '9170ec5c662aa60c5771639cc021aba514fc2c42',
       distractionFreeMode: false
