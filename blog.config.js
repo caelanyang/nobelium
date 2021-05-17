@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'Comments',
+  title: 'Moments',
   author: 'Jiacheng',
   email: 'news.list@outlook.com',
   link: 'https://jiacheng.site',
-  description: 'Caelan Comments',
+  description: 'Caelan Moments',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
